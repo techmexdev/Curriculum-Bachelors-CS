@@ -90,7 +90,7 @@ _Relational systems, data manipulation, query language (SQL), relational algebra
 
 + [Stanford's Self-Paced Database Mini-Courses](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about) - Lecture videos and notes, transcripts, and exercises that provide an overview of databases.
 
-+ [SQLZoo: SQL Tutorial](http://sqlzoo.net/) - SQL is a standard language for accessing databases.
++ [SQL Bolt: SQL Tutorial](http://sqlbolt.com/) - SQL is a standard language for accessing databases.
 
 **Non-Relational Databases** _(Optional)_: Get familiar with modern databases and NoSQL. [Getting Started with MongoDB](http://docs.mongodb.org/getting-started/shell/) and [M101P: MongoDB for Developers](https://university.mongodb.com/courses/M101P/about), [Redis: Simple Twitter Clone Tutorial](http://redis.io/topics/twitter-clone), optional: [Seven Databases in Seven Weeks by J. Wilson](http://www.amazon.com/gp/offer-listing/1934356921/ref=dp_olp_all_mbc?ie=UTF8&condition=all) (~$16 used).
 
