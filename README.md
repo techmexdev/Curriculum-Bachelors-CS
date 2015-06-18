@@ -108,12 +108,6 @@ _Packet-switching and circuit switching, TCP/IP protocal layers, reliable data t
 
 + [Saylor CS402: Computer Communications and Networks](https://learn.saylor.org/course/view.php?id=84) - "A top-down approach to teach you the details about each layer and the relevant protocols used in computer networks." A course built of free resources curated from around the internet.
 
-# Cryptography:
-
-_Techniques for secure communication in the presence of adversaries, an increasingly important topic._
-
-+ [Stanford: Cryptography I](https://www.coursera.org/course/crypto) - Videos and exercises on a broad overview of ciphers and key techniques.
-
 # Computer Architecture:
 
 _Machine instructions, assembly language, system organization, etc._
@@ -153,3 +147,23 @@ _Complete your education by using it._
 + [FreeCodeCamp](http://www.freecodecamp.com/) - Mentioned above, but it's worth highlighting here. This is a complete web development course (1600 hours - that's 40 full-time weeks) that culminates in 800 hours of writing code for nonprofits.
 
 Don't forget local opportunities. There are meetups and hackathons and community groups everywhere. Connecting with real humans will open doors and help you avoid burnout.
+
+***
+#Advanced Topics
+_The following subjects are important, but I did not include them above to avoid making this curriculum too overwhelming. Establish a solid foundation with the courses above before moving on to these:_
+###Compilers
+_Understanding how compilers work will help you write better code and master new languages more quickly._
++ [Stanford: Compilers](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about) - "Learn how a program written in a high-level language designed for humans is systematically translated into a program written in low-level assembly more suited to machines."
+
+###Cryptography:
+_Techniques for secure communication in the presence of adversaries, an increasingly important topic._
+
++ [Stanford: Cryptography I](https://www.coursera.org/course/crypto) - Videos and exercises on a broad overview of ciphers and key techniques.
+
+###Debugging:
+_Fix your broken programs._
++ [Udacity: Software Debugging](https://www.udacity.com/course/software-debugging--cs259) -  "How to debug programs systematically and how to automate the debugging process."
+
+###Artificial Intelligence:
+_The study and design of intelligent agents._
++ [Berkeley: Aritificial Intelligence](https://www.edx.org/course/artificial-intelligence-uc-berkeleyx-cs188-1x) - Basic ideas and techniques underlying the design of intelligent computer systems with a focus on behaviour from computation.
