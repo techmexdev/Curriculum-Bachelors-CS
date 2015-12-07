@@ -108,6 +108,8 @@ _Packet-switching and circuit switching, TCP/IP protocal layers, reliable data t
 
 + [Saylor CS402: Computer Communications and Networks](https://learn.saylor.org/course/view.php?id=84) - "A top-down approach to teach you the details about each layer and the relevant protocols used in computer networks." A course built of free resources curated from around the internet.
 
++ (Optional Intro Course) [Microsoft Virtual Academy: Networking Fundamentals](https://mva.microsoft.com/en-US/training-courses/networking-fundamentals-8249?l=p2zaTLKy_404984382) - "The building blocks of modern network design and function."
+
 # Computer Architecture:
 
 _Machine instructions, assembly language, system organization, etc._
