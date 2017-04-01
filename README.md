@@ -1,7 +1,7 @@
 # Curated Computer Science Curriculum
 ## _How to Teach Yourself Computer Science: A Self Taught B.S. level CS Curriculum_
 
-##Introduction
+## Introduction
 There are tons of free online resources that will help you "Learn Programming Language X," but it's difficult to find courses that will give you a deeper understanding of computer science (CS) like what's taught in a bachelor's level CS program. There is a lot more to CS than what you get from learning languages or going to a webdev bootcamp, so this is an attempt to create self taught curriculum based on the most important courses you'd learn in a typical BS in CS program.
 
 Below you'll find a compilation of resources for teaching yourself the fundamentals of computer science. The categories are based largely off of the [undergraduate pre-requisites for a Master's in Computer Science](https://www.cise.ufl.edu/academics/grad/prereq), with a few extra items based on what seems to be important to the professional CS community. The content was found all over the place, but the wonderful folks at [/r/learnprogramming](https://www.reddit.com/r/learnprogramming/) and [/r/cscareerquestions](https://www.reddit.com/r/cscareerquestions/) have been especially helpful.
@@ -23,7 +23,7 @@ _Optional:_
 
 # Miscellaneous Skills:
 _You don't have to master these skills, but a little knowledge will go a long way._
-###_GitHub:_
+### _GitHub:_
 Git is a version control system for managing software development. Learn how to use git and maintain an active portfolio of your own projects and contributions to other projects on GitHub. Collaborating on open-source software is a great way to learn the invaluable skills of working with other people and writing readable code.
 
 + [Atlassian's Git Tutorials](https://www.atlassian.com/git/tutorials) - Excellent intro tutorials on everything you need to get started with git.
@@ -32,19 +32,19 @@ Git is a version control system for managing software development. Learn how to 
 
 + [GitHub Guides](https://guides.github.com/) - Guides for using the various features of GitHub.
 
-###_Touch Typing:_
+### _Touch Typing:_
 Programming requires a lot of typing. A small investment in typing skills will save tons of time down the road.
 
 + [Keybr.com](http://www.keybr.com/#!game) - This program offers the best combination of simplicity and effectiveness; it charts your progress and adjusts its difficulty accordingly.
 
-###_Programming Languages:_
+### _Programming Languages:_
 You should be learning the fundamentals of programming through the other courses here, but sometimes you may need to pick up the syntax of a particular language.
 
 + [codecademy](http://www.codecademy.com/learn) - Quick, basic lessons in a number of popular languages and systems.
 
 + [Michael Lee's Curated Programming Resources](https://github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md#programming-languages) - A bunch of material for a bunch of languages.
 
-###_Stack Exchange_
+### _Stack Exchange_
 An incredibly useful network of Q&A sites for getting help, it's like Yahoo Answers for people who know what they are talking about. The site is engineered to be as helpful as possible, but it may take a little getting used to. [Stack Overflow](http://stackoverflow.com/search?q=) is dedicated to programming questions.
 
 + [Meta Stack Exchange FAQ](http://meta.stackexchange.com/questions/7931/faq-for-stack-exchange-sites) - Explains the stack exchange system and how to use it successfully.
@@ -123,7 +123,7 @@ _Go Deeper (Optional):_
 
 + [Computer Architecture: A Quantitative Approach by Hennessy and Patterson](http://www.amazon.com/Computer-Architecture-Fifth-Quantitative-Approach/dp/012383872X) (book) - THE textbook on computer architecture. ~$60 used, you can get out of date versions for ~$10.
 
-#Operating Systems:
+# Operating Systems:
 
 _Operating system management of processes, I/O, memory, and file systems. May be some overlap with Computer Architecture._
 
@@ -134,7 +134,7 @@ _Optional:_
 
 + [OSDev.org Tutorials](http://wiki.osdev.org/Tutorials) - Learn by doing. Some tutorials for building simple OS functions. The rest of OSDev.org is a great reference in general.
 
-#Internships/Real World Experience:
+# Internships/Real World Experience:
 
 _Complete your education by using it._
 
@@ -157,15 +157,15 @@ _The following subjects are important, but I did not include them above to avoid
 _Understanding how compilers work will help you write better code and master new languages more quickly._
 + [Stanford: Compilers](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about) - "Learn how a program written in a high-level language designed for humans is systematically translated into a program written in low-level assembly more suited to machines."
 
-###Cryptography:
+### Cryptography:
 _Techniques for secure communication in the presence of adversaries, an increasingly important topic._
 
 + [Stanford: Cryptography I](https://www.coursera.org/course/crypto) - Videos and exercises on a broad overview of ciphers and key techniques.
 
-###Debugging:
+### Debugging:
 _Fix your broken programs._
 + [Udacity: Software Debugging](https://www.udacity.com/course/software-debugging--cs259) -  "How to debug programs systematically and how to automate the debugging process."
 
-###Artificial Intelligence:
+### Artificial Intelligence:
 _The study and design of intelligent agents._
 + [Berkeley: Aritificial Intelligence](https://www.edx.org/course/artificial-intelligence-uc-berkeleyx-cs188-1x) - Basic ideas and techniques underlying the design of intelligent computer systems with a focus on behaviour from computation.
